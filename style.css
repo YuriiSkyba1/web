@@ -1,0 +1,147 @@
+html{
+width: 1920px;}
+.header{
+background-color: #85d0bd;
+  
+ height: 1052px;
+
+}
+.shadow{
+background-color: #f7e9a7;
+height:520px;
+box-shadow: inset 10px -300px 100px 0px #d3e1ae;
+margin-top:-269px;
+}
+.logo{
+margin-left: 180px;
+
+}
+
+#but{
+    position:absolute;
+    margin: 365px 150px;
+
+border-radius:45px;
+font-family:   bold;
+color: white;
+font-size:40px;
+background-color: #ff8141;
+}
+
+.tx{
+    font-size: 30px;
+color: #ff8141;
+    position: absolute;
+margin-top: 320px;
+margin-left: 138px;
+}
+.promin_1{
+margin-top: -62px;
+margin-left: 1107px;
+}
+
+.man_blue{
+margin-top: -80px;
+margin-left:1416px;
+
+    
+}
+.cor{
+position: absolute;
+    margin-left: 538px;
+    margin-top: 390px;
+}
+.nw{
+
+    font-size:40px;
+    margin-left: 180px;
+    font-style:bold;
+    color: #44a09b;
+margin-top: -2.7em;
+}
+.down{
+    color: white;
+font-size: 14px;
+margin-left: 895px;
+margin-top:-100px;
+}
+.center{
+height: 915px;
+}
+.block{
+margin-top: 66px;
+ opacity: 10.6;
+ width: 1078px;
+height: 852px;
+   background-image: url(image/stars.png);
+/*/background: linear-gradient(to top right, #f27935, #eb974e);*/
+opacity: 1;
+
+    float:left;
+}
+
+.content{ 
+margin-top: -853px;
+    
+margin-left: 1082px;
+    height: 852px;
+    width: 826px;
+float: right;
+   
+
+}
+.bb{
+    margin-left: 160px;
+    margin-top: 130px;
+position: absolute;
+font-size: 45px;
+font-family: bold;
+}
+.bbb{
+
+   margin-left: 160px;
+    margin-top: 165px;
+position: absolute;
+font-size: 45px;
+font-family: bold;
+
+}
+ul{
+    position: absolute;
+margin-left: 1224px;
+    margin-top: 245px;
+   list-style-image: url(image/marker.png);
+    font-size:25px;
+}
+.heart_word{
+    margin-left: 190px;
+    margin-top: 567px;
+position: absolute;
+font-size: 25px;
+    
+}
+#butts{
+position:absolute;
+    margin: 700px 160px;
+
+border-radius:45px;
+font-family:   bold;
+color: white;
+font-size:40px;
+background-color: #ff8141;
+}
+
+#footer{
+    
+height: 208px;
+background-color: #273d50;
+}
+.bot{
+    
+    position: absolute;
+margin-left: -733px;
+    margin-top: 62px;
+font-family: bold;
+font-size: 70px;
+color: white;
+}
